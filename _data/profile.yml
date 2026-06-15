@@ -1,0 +1,82 @@
+primary_name: "Le Li"
+secondary_name: ""
+navbar_name: "Le Li"
+
+positions:
+- name: "Boya Postdoctoral Fellow / Assistant Research Fellow"
+- name: "School of Advanced Manufacturing and Robotics, Peking University"
+  logo: /assets/images/badges/PKU_red.png
+
+email: "lile@pku.edu.cn"
+
+# Add CV later by uploading assets/CV.pdf and uncommenting the next line.
+# cv_link: /assets/CV.pdf
+
+gscholar: "https://scholar.google.com/citations?user=6ov3J-MAAAAJ&hl=en"
+github: "layla95-git"
+researchgate: "https://www.researchgate.net/profile/Le-Li-42?ev=hdr_xprf"
+linkedin: "%E4%B9%90-%E6%9D%8E-041ab1416"
+orcid: "0000-0003-2576-1378"
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    Le Li received the B.S. degree in Electrical Engineering and Automation from
+    China University of Mining and Technology-Beijing, Beijing, China, in 2018,
+    and the Ph.D. degree in Control Theory and Control Engineering from Beihang
+    University, Beijing, China, in 2024. She is currently a Boya Postdoctoral
+    Fellow at Peking University, Beijing, China.
+  </p>
+  <p>
+    Her research interests include distributed parameter systems, flexible
+    mechanical systems, boundary control, constrained control, multi-agent
+    systems, adaptive control, and vibration control.
+  </p>
+
+portrait_url: /assets/images/photos/Profile.jpg
+portrait_caption: "Le Li"
+
+education:
+- name: "Beihang University"
+  logo: /assets/images/badges/BUAA.png
+  dept: "Control Theory and Control Engineering"
+  position: >-
+    Ph.D. <br/>
+    Combined M.S.-Ph.D. Program
+  date: "2018 - 2024"
+
+- name: "China University of Mining and Technology-Beijing"
+  logo: /assets/images/badges/CUMTB.png
+  dept: "Electrical Engineering and Automation"
+  position: >-
+    B.S.
+  date: "2014 - 2018"
+
+experience:
+- name: "Peking University"
+  logo: /assets/images/badges/PKU_red.png
+  dept: "School of Advanced Manufacturing and Robotics"
+  position: >-
+    Boya Postdoctoral Fellow / Assistant Research Fellow <br/>
+    Mechanics and Control
+  date: "2024 - Present"
+
+awards:
+- name: "Excellent Graduate, Beihang University"
+  date: "2024"
+- name: "Excellent Academic Innovation Achievement Awards, Beihang University"
+  date: "2022 / 2024"
+- name: "Aviation Manufacturing Scholarship, First Prize, Beihang University"
+  date: "2022"
+- name: "Excellent Academic Paper Award, Beihang University"
+  date: "2021"
+- name: "Top Ten Graduate Students, Beihang University"
+  date: "2020"
+- name: "Doctoral Freshman Scholarship, Beihang University"
+  date: "2020"
+
+academic_service:
+- name: >-
+    Journal reviewer: IEEE Transactions on Automation Science and Engineering,
+    ISA Transactions, Systems & Control Letters, IET Control Theory & Applications,
+    Asian Journal of Control, International Journal of Control.

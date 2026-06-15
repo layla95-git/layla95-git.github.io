@@ -1,0 +1,72 @@
+- authors: "<strong>Le Li</strong> and Zhongkui Li"
+  title: "Exponential Attitude Tracking and Vibration Control for 3-D Flexible Spacecraft With Disturbances and Quantized Inputs"
+  venue: "<strong>IEEE Transactions on Automation Science and Engineering</strong>"
+  year: 2025
+  url: "https://doi.org/10.1109/TASE.2025.3591968"
+  index: 1
+- authors: "<strong>Le Li</strong>, Qing Zhang, and Jinkun Liu"
+  title: "PDE-Based Leader-Following Coordination Control for Flexible Manipulators With Event-Triggered Communication Over Directed Graphs"
+  venue: "<strong>IEEE Transactions on Control of Network Systems</strong>"
+  year: 2025
+  url: "https://doi.org/10.1109/TCNS.2024.3431414"
+  index: 2
+- authors: "<strong>Le Li</strong>, Qing Zhang, and Jinkun Liu"
+  title: "Consensus Tracking and Vibration Control for Multiple Overhead Cranes With Flexible Cables Under Time-Varying Actuator Faults"
+  venue: "<strong>IEEE Transactions on Automation Science and Engineering</strong>"
+  year: 2024
+  url: "https://doi.org/10.1109/TASE.2023.3326347"
+  index: 3
+- authors: "<strong>Le Li</strong> and Jinkun Liu"
+  title: "Consensus Tracking and Vibration Control for Multiple Single-Link Flexible Manipulators With Input Signal Quantization"
+  venue: "<strong>ISA Transactions</strong>"
+  year: 2023
+  url: "https://doi.org/10.1016/j.isatra.2023.08.017"
+  index: 4
+- authors: "<strong>Le Li</strong> and Jinkun Liu"
+  title: "Consensus Tracking Control and Vibration Suppression for Nonlinear Mobile Flexible Manipulator Multi-Agent Systems Based on PDE Model"
+  venue: "<strong>Nonlinear Dynamics</strong>"
+  year: 2023
+  url: "https://doi.org/10.1007/s11071-022-07980-9"
+  index: 5
+- authors: "<strong>Le Li</strong> and Jinkun Liu"
+  title: "Nussbaum Function-Based Adaptive Boundary Control for Flexible Manipulator With Unknown Control Directions and Nonlinear Time-Varying Actuator Faults"
+  venue: "<strong>International Journal of Robust and Nonlinear Control</strong>"
+  year: 2023
+  url: "https://doi.org/10.1002/rnc.6723"
+  index: 6
+- authors: "<strong>Le Li</strong>, Fangfang Cao, and Jinkun Liu"
+  title: "Adaptive Vibration Control for Constrained Moving Vehicle-Mounted Nonlinear 3D Rigid-Flexible Manipulator System Subject to Actuator Failures"
+  venue: "<strong>Journal of Vibration and Control</strong>"
+  year: 2023
+  url: "https://doi.org/10.1177/10775463221113222"
+  index: 7
+- authors: "<strong>Le Li</strong> and Jinkun Liu"
+  title: "Event-Triggered Boundary Control of a Flexible Manipulator With Uncertain End Load"
+  venue: "<strong>International Journal of Control</strong>"
+  year: 2023
+  url: "https://doi.org/10.1080/00207179.2021.1982013"
+  index: 8
+- authors: "<strong>Le Li</strong> and Jinkun Liu"
+  title: "Event-Triggered Adaptive Fault-Tolerant Vibration Control for a Flexible Robotic Manipulator Based on the Partial Differential Equation Model"
+  venue: "<strong>International Journal of Adaptive Control and Signal Processing</strong>"
+  year: 2022
+  url: "https://doi.org/10.1002/acs.3446"
+  index: 9
+- authors: "<strong>Le Li</strong>, Hui Yang, and Jinkun Liu"
+  title: "Bilateral Coordination Control of Flexible Master-Slave Manipulators Using a Partial Differential Equation Model"
+  venue: "<strong>Journal of Vibration and Control</strong>"
+  year: 2021
+  url: "https://doi.org/10.1177/1077546320945472"
+  index: 10
+- authors: "<strong>Le Li</strong>, Fangfang Cao, and Jinkun Liu"
+  title: "Vibration Control of Flexible Manipulator With Unknown Control Direction"
+  venue: "<strong>International Journal of Control</strong>"
+  year: 2021
+  url: "https://doi.org/10.1080/00207179.2020.1731609"
+  index: 11
+- authors: "<strong>Le Li</strong> and Jinkun Liu"
+  title: "Neural-Network-Based Adaptive Fault-Tolerant Vibration Control of Single-Link Flexible Manipulator"
+  venue: "<strong>Transactions of the Institute of Measurement and Control</strong>"
+  year: 2020
+  url: "https://doi.org/10.1177/0142331219874157"
+  index: 12

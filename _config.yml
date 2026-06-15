@@ -1,0 +1,13 @@
+# Site settings
+baseurl: ""
+markdown: kramdown
+
+# Keep the site compatible with standard GitHub Pages/Jekyll builds.
+plugins: []
+
+timezone: Asia/Shanghai
+
+collections:
+  - publications
+  - news
+  - showcase
