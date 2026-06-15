@@ -1,0 +1,12 @@
+<section class="content-card">
+  {% include widgets/heading.html title="News and Updates" icon="signal-icon" %}
+  {% assign news_items = site.data.news | sort: 'date' | reverse %}
+  <div class="news-list">
+    {% for item in news_items limit: site.data.display.homepage.news_limit %}
+      <div class="news-item">
+        <span class="news-date">{{ item.index }}</span>
+        <span class="news-content">{{ item.content }}</span>
+      </div>
+    {% endfor %}
+  </div>
+</section>

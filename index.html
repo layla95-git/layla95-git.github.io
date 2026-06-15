@@ -1,0 +1,17 @@
+---
+layout: default
+title: Home
+---
+<div class="home-grid">
+  <div class="left-column">
+    {% include widgets/profile_card_mini.html %}
+  </div>
+  <div class="right-column">
+    {% include widgets/profile_card_bio_only.html %}
+    <div class="two-card-grid">
+      {% include widgets/experience_card.html %}
+    </div>
+    {% include widgets/news_card.html %}
+    {% include widgets/publication_card.html %}
+  </div>
+</div>

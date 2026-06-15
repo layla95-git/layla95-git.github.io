@@ -1,0 +1,18 @@
+---
+layout: default
+title: Publications
+---
+<section class="content-card page-card">
+  {% include widgets/heading.html title="Publications" icon="publication-icon" %}
+  <p class="page-note">Journal publications are listed in reverse chronological order. Code links can be added later when repositories become available.</p>
+  {% assign pubs = site.publications | sort: 'date' | reverse %}
+  {% assign grouped = pubs | group_by_exp: "pub", "pub.date | date: '%Y'" %}
+  {% for year in grouped %}
+    <h2 class="year-heading">{{ year.name }}</h2>
+    <div class="publication-list numbered-list">
+      {% for pub in year.items %}
+        {% include widgets/publication_item.html pub=pub %}
+      {% endfor %}
+    </div>
+  {% endfor %}
+</section>

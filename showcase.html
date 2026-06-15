@@ -1,0 +1,18 @@
+---
+layout: default
+title: Showcase
+---
+<section class="content-card page-card">
+  {% include widgets/heading.html title="Showcase" icon="showcase-icon" %}
+  {% assign items = site.showcase | sort: 'order' %}
+  {% if items.size > 0 %}
+    <p class="page-note">Research topics, representative systems, demos, slides, and code repositories are collected here.</p>
+    <div class="showcase-list">
+      {% for item in items %}
+        {% include widgets/showcase_item.html item=item %}
+      {% endfor %}
+    </div>
+  {% else %}
+    <p class="page-note">This section is reserved for future research showcases, project demos, slides, videos, and code repositories.</p>
+  {% endif %}
+</section>

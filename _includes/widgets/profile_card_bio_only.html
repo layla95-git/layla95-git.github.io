@@ -1,0 +1,10 @@
+<section class="content-card">
+  {% include widgets/heading.html title="About Me" icon="about-icon" %}
+  <p>{{ site.data.profile.short_bio }}</p>
+  <div class="highlight-box"><strong>Research focus:</strong> {{ site.data.profile.research_focus }}</div>
+  <div class="interest-tags">
+    {% for interest in site.data.profile.research_interests %}
+      <span>{{ interest }}</span>
+    {% endfor %}
+  </div>
+</section>

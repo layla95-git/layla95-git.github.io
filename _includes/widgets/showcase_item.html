@@ -1,0 +1,10 @@
+<article class="showcase-item">
+  <h3>{{ include.item.title }}</h3>
+  {% if include.item.subtitle %}<p class="subtitle">{{ include.item.subtitle }}</p>{% endif %}
+  {% if include.item.tags %}
+    <div class="interest-tags small-tags">
+      {% for tag in include.item.tags %}<span>{{ tag }}</span>{% endfor %}
+    </div>
+  {% endif %}
+  <div class="showcase-description">{{ include.item.content | markdownify }}</div>
+</article>
