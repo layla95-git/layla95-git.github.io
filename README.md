@@ -1,6 +1,6 @@
-# Le Li Academic Homepage
+# Academic Homepage
 
-This repository contains the source files for Le Li's personal academic homepage, built with a Jekyll academic-homepage style layout.
+This repository contains the source files for Layla's personal academic homepage, built with a Jekyll academic-homepage layout and adopting the style of "stevezs315.github.io".
 
 ## Main editable files
 
